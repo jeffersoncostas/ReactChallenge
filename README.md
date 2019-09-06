@@ -20,7 +20,7 @@ _A simple git info app using react native for iOS & Android_
 npm install
 ```
 
-_Before run android build, see React Native CLI Quickstart for Android [Android Studio](https://facebook.github.io/react-native/docs/android-setup.html)_
+_Before run android build, see React Native CLI Quickstart for [Android](https://facebook.github.io/react-native/docs/android-setup.html)_
 
 **Step 3:** If Android
 
