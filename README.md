@@ -1,6 +1,14 @@
-# React Challenge
+# React Challenge - GitInfo
 
-_A sample git app using react native for iOS & Android_
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img src="https://i.imgur.com/Dk91Wa7.png" alt="Logo">
+  </a>
+
+  <h3 align="center">Prototype elaborated in Adobe XD</h3>
+</p>
+
+_A simple git info app using react native for iOS & Android_
 
 ## Installation
 
@@ -33,11 +41,3 @@ react-native run-ios
 That's all
 
 If you want to install app in the device, connect your device to the system with debugger mode on and run the above command (app will be installed automatically);
-
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img src="https://i.imgur.com/Dk91Wa7.png" alt="Logo">
-  </a>
-
-  <h3 align="center">Prototype elaborated in Adobe XD</h3>
-</p>
