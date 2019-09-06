@@ -9,6 +9,7 @@ import Home from './views/Home/Home';
 import UserProfile from './views/UserProfile/UserProfile';
 
 
+
 const getTabBarIcon = (navigation, focused, tintColor) => {
     const { routeName } = navigation.state;
     let IconComponent = AntDesign;
@@ -56,13 +57,8 @@ const AppNavigator = createStackNavigator({
         screen: UserProfile,
 
         navigationOptions: () => ({
-
-            title: `B`,
             headerTransparent: true,
-            headerStyle: {
-                justifyContent: "center",
-                flexDirection: "row"
-            }
+            headerTintColor: "white",
         }),
     },
 });
